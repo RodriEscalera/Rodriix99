@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Escalera!</h1>
-<h3 align="center">A fullstack developer from Argentina 🇦🇷</h3>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?color=58D68D&lines=Full+Stack+Developer&center=true%22%3E
+</p>
 
 - 🌱 I’m currently learning **Mongo DB and React Native**
 
