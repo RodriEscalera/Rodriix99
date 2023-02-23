@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mongo DB and React Native**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on "Mi turno webapp" (MERN with Typescript)
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-rodriix99.vercel.app/](https://my-portfolio-rodriix99.vercel.app/)
 
