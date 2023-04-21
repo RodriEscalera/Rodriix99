@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Escalera!</h1>
-<h3 align="center">A fullstack developer from Argentina 🇦🇷</h3>
+
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=Rodriix99&show_icons=true&theme=radical"/>
+<img align="right" height="200px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriix99&layout=compact"/>
+
+
+
+
 
 - Hi, i'm currenctle working in ["Mi Turno WebApp" ⏰](https://github.com/Rodriix99/Mi-Turno-Webapp-Back)
 
